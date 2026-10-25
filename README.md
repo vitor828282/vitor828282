@@ -1,4 +1,7 @@
 ## Hi there 👋
+### 🛠️ Tecnologias que utilizo:
+`HTML5` `CSS3` `JavaScript` `C++`
+
 <p align="left">
   <img src="https://jsdelivr.net" width="45" height="45" alt="HTML5" />
   <img src="https://jsdelivr.net" width="45" height="45" alt="CSS3" />
