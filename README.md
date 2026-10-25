@@ -1,4 +1,9 @@
 ## Hi there 👋
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![C++](https://shields.io)
+
 
 <!--
 **vitor828282/vitor828282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
