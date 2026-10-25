@@ -1,6 +1,11 @@
 ## Hi there 👋
-### 🛠️ Tecnologias que utilizo:
-`HTML5` `CSS3` `JavaScript` `C++`
+<p align="left">
+  <img src="https://githubusercontent.com" width="45" height="45" style="padding-right: 10px;" />
+  <img src="https://githubusercontent.com" width="45" height="45" style="padding-right: 10px;" />
+  <img src="https://githubusercontent.com" width="45" height="45" style="padding-right: 10px;" />
+  <img src="https://githubusercontent.com" width="45" height="45" />
+</p>
+
 
 
 
